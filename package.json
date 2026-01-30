@@ -7,5 +7,12 @@
   "author": {
     "name": "PhuNope",
     "email": "mrphu2001@gmail.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scenes",
+      "description": "Example to use ViewManager",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
