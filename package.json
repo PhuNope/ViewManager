@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.phunope.vewmanager",
+  "displayName": "View Manager",
+  "version": "0.1.0",
+  "unity": "6000.2",
+  "description": "Framework to manager ViewUI",
+  "author": {
+    "name": "PhuNope",
+    "email": "mrphu2001@gmail.com"
+  }
+}
